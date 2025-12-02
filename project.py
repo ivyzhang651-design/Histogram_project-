@@ -9,7 +9,6 @@ Created on Sun Nov 23 16:05:04 2025
 import streamlit as st
 import numpy as np
 import pandas as pd
-import scipy as sc
 import matplotlib.pyplot as plt
 import scipy.stats as stats
 
@@ -531,6 +530,7 @@ with tab2:
         
         
         
+
 
 
 
