@@ -8,4 +8,11 @@ Each distribution object in scipy has a fitting function, which returns the rele
 Your app should provide at least 10 different options
 A visualization of the data and the fitted distribution (i.e. a graph)
 An output area that shows the fitting parameters with some information about the quality of the fit (e.g. average error or maximum error between data and curve).
+
 The app should also provide a ‘manual fitting’ option, where users can adjust sliders to control the various parameters of the current distribution.
+
+streamlit
+numpy
+pandas
+scipy
+matplotlib
